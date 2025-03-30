@@ -1,4 +1,4 @@
-# AES 8576 bits Encryption Cipher
+# AES 8576 bits Encryption Cipher soure code in C.
 Advanced Encryption Standard with 8576-bit keys.
 128-bit block, 66 rounds, 8576-bit keys with 268 * 32-bit subkeys.
 
